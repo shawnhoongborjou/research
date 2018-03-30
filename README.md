@@ -1,8 +1,6 @@
-# research
+# Research
 
-Hello world!
-
-Lockheed-Martin "Intrusion Kill Chain" framework 2011
+# Lockheed-Martin "Intrusion Kill Chain" framework 2011
 1. Reconnaissance       - Intruder selects target, researches it and attemptes to identify vulnerabilities in the target network.
 2. Weaponization        - Intruder creates remote access malware weapon (e.g., virus, worm) tailored to one or more vulnerabilities
 3. Delivery             - Intruder transmits weapon to target (e.g., via e-mail attachments, webistes, USB drives)
