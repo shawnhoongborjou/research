@@ -9,5 +9,15 @@
 6. Command and Control  - Malware enables intruder to have "hands on the keyboard", persistent access to target network
 7. Actions on Objective - Intrduder takes action to achieve their goals (e.g., data exfiltration, data destruction, encryption for ransom)
 
-## Malware
-* Bank of Bangladesh 2016 - Dridex
+## FireEye | Dosfuscation: Exploring the Depths of Cmd.exe Obfuscation and Detection Techniques
+
+## Components
+Number | Dropper | Infection | C2 Server | Transport
+--- | --- | --- | --- | ---
+1 | | | | 
+
+## Malware 
+Number | Name | Description | Examples/Proof of Concept
+---|---|---|---
+1 | | | |
+
