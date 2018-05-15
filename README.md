@@ -19,5 +19,5 @@ Number | Dropper | Infection | C2 Server | Transport
 ## Malware 
 Number | Name | Description | Examples/Proof of Concept
 ---|---|---|---
-1 | | | |
+1 |.com extension |Some computer virus writers have hoped to take advantage of modern computer users' likely lack of knowledge of the .com file extension and associated binary format, along with their more likely familiarity with the .com Internet domain name. E-mails have been sent with attachment names similar to "www.example.com". Unwary Microsoft Windows users clicking on such an attachment would expect to begin browsing a site named http://www.example.com/, but instead would run the attached binary command file named www.example, giving it full permission to do to their machine whatever its author had in mind. | |
 
