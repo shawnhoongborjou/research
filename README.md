@@ -14,7 +14,7 @@
 ## Components
 No. | Dropper | Infection | C2 Server | Transport
 --- | --- | --- | --- | ---
-1 | | | | 
+1 || | [Domain Generation Algorithm](http://resources.infosecinstitute.com/domain-generation-algorithm-dga/) |
 
 ## Malware 
 No. | Name | Description | Examples/Proof of Concept
